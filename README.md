@@ -47,7 +47,7 @@ MetaMask or Web3 wallet
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/AnonymousIdentityVerification.git
+git clone https://github.com/MilesTreutel/Anonymous-Identity-Verification.git
 cd AnonymousIdentityVerification
 
 # Install dependencies
@@ -366,7 +366,7 @@ MIT License - see LICENSE file for details
 
 ## 🔗 Links
 
-- **Repository**: https://github.com/your-username/AnonymousIdentityVerification
+- **Repository**: https://github.com/MilesTreutel/Anonymous-Identity-Verification
 - **Video Demo**: [Link to be added]
 - **Zama Community**: https://www.zama.ai/community
 - **Discord**: https://discord.com/invite/zama
