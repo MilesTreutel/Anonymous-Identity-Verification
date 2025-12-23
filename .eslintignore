@@ -1,0 +1,11 @@
+node_modules
+artifacts
+cache
+coverage
+dist
+types
+typechain
+typechain-types
+fhevmTemp
+*.config.js
+*.config.ts
