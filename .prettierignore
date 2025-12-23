@@ -1,0 +1,12 @@
+node_modules
+artifacts
+cache
+coverage
+dist
+types
+typechain
+typechain-types
+fhevmTemp
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
